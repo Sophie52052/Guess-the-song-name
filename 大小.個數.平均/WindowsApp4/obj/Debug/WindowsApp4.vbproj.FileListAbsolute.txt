@@ -1,0 +1,12 @@
+C:\Users\Sophie\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+C:\Users\Sophie\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe
+C:\Users\Sophie\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.pdb
+C:\Users\Sophie\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.xml
+C:\Users\Sophie\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbprojAssemblyReference.cache
+C:\Users\Sophie\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form1.resources
+C:\Users\Sophie\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+C:\Users\Sophie\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.GenerateResource.cache
+C:\Users\Sophie\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.exe
+C:\Users\Sophie\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.xml
+C:\Users\Sophie\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.pdb
